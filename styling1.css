@@ -1,0 +1,31 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+#companyname
+{
+	color:orchid;
+	font-weight:bold;
+}
+.navbar{
+	font-size: 150%;
+}
+
+.container-fluid .navbar .navbar-brand
+{
+  font-size: 180%;
+  padding-left: 30px;
+}
+.home,.services
+{
+	background-color:lightgray;
+	width:100%;
+}
+
+.aboutustext
+{
+	font-size:23px;
+	padding-right:55px;
+	word-spacing:10px;
+}
